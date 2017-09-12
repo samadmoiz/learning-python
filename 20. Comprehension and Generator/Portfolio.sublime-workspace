@@ -1,0 +1,1234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inter",
+				"intersect\t(inter2.py)"
+			],
+			[
+				"sum",
+				"sumtree"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"sprea",
+				"spreading-into-a-function.html"
+			],
+			[
+				"getElement",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"mark",
+				"markup"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"func",
+				"function_without_name"
+			],
+			[
+				"hour",
+				"hour-hand"
+			],
+			[
+				"queryeS",
+				"querySelectorAll\t(index-FINISHED.html)"
+			],
+			[
+				"data",
+				"data-key"
+			],
+			[
+				"add",
+				"addEventListener\t(index-FINISHED.html)"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"iter",
+				"iterator"
+			],
+			[
+				"py",
+				"py_boiler\tpy_boiler"
+			],
+			[
+				"read",
+				"readline\t(main.py)"
+			],
+			[
+				"aa",
+				"aaron-irizarry.jpg\tw:260 h:260"
+			],
+			[
+				"all",
+				"all_links"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding-box"
+			],
+			[
+				"background",
+				"background-clip"
+			],
+			[
+				"liner",
+				"linear-gradient"
+			],
+			[
+				"wiki",
+				"wiki_topic"
+			],
+			[
+				"WIki",
+				"WikiPage"
+			],
+			[
+				"Wiki",
+				"WikiPage"
+			],
+			[
+				"input",
+				"inputt\tinput - text"
+			],
+			[
+				"WikiTopc",
+				"WikiTopic\t(class)"
+			],
+			[
+				"create",
+				"creation_date"
+			],
+			[
+				"name",
+				"namedtuple"
+			],
+			[
+				"cook",
+				"cookie_val"
+			],
+			[
+				"chec",
+				"check_secure_val"
+			],
+			[
+				"cookie",
+				"cookies"
+			],
+			[
+				"make",
+				"make_secure_val"
+			],
+			[
+				"error",
+				"error_email\t(main.py)"
+			],
+			[
+				"NO",
+				"NotImplementedError\t(class)"
+			],
+			[
+				"RE",
+				"RE_EMAIL"
+			],
+			[
+				"have",
+				"have_error"
+			],
+			[
+				"val",
+				"valid_email"
+			],
+			[
+				"ver",
+				"verify"
+			],
+			[
+				"valid",
+				"valid_username"
+			],
+			[
+				"vlaid",
+				"valid_password\t(statement)"
+			],
+			[
+				"RE_",
+				"RE_PASSWORD"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"Loig",
+				"LoginHandler"
+			],
+			[
+				"render",
+				"render_str〔function〕"
+			],
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"sep",
+				"separator"
+			],
+			[
+				"filter",
+				"filteredFiles"
+			],
+			[
+				"clie",
+				"clientList"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"white",
+				"whiteRabbit"
+			],
+			[
+				"jiheart",
+				"ji:smiling-face-with-heart-shaped-eyes\t😍"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"option",
+				"option\tTag"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"slee",
+				"selectionEnd"
+			],
+			[
+				"fiel",
+				"field"
+			],
+			[
+				"sele",
+				"selectionStart"
+			],
+			[
+				"button",
+				"button\tTag"
+			],
+			[
+				"tab",
+				"tabindex\tAttr"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"wa",
+				"waitiing_for_multiple_promises.js"
+			],
+			[
+				"respon",
+				"responseText〔variable〕"
+			],
+			[
+				"sta",
+				"statusText〔variable〕"
+			],
+			[
+				"respo",
+				"responseText"
+			],
+			[
+				"contet",
+				"content_negotiation.js"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"auth",
+				"authRouter"
+			],
+			[
+				"inpt",
+				"inputp\tinput - password"
+			],
+			[
+				"inp",
+				"inputt\tinput - text"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"cac",
+				"cached_ago"
+			],
+			[
+				"from",
+				"from_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"last_filter": "project",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"renmae",
+				"File: Rename"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pe",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"browse",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"list",
+				"Themr: List themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"clear",
+				"SublimeLinter: Clear Color Scheme Folder"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"open ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"start",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"rmeove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"server",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublime",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"serv",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"save as ",
+				"Project: Save As"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"intsa",
+				"Package Control: Install Package"
+			],
+			[
+				"thmer",
+				"Themr: List themes"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"live",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"save",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"savet ",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"inner",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"porject",
+				"Project Manager: Add New Project"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"roje",
+				"Project Manager: Add New Project"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"liveserv",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"python",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"project ",
+				"Project Manager: Add New Project"
+			],
+			[
+				"text",
+				"Text Pastry: Menu"
+			],
+			[
+				"algi",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"disable",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"zeal",
+				"Zeal: Search"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pylint",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"lingitn",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linting",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"litner",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"tern",
+				"tern_for_sublime: Describe"
+			],
+			[
+				"lsit pac",
+				"Package Control: List Packages"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"a file",
+				"A File Icon: Environment"
+			],
+			[
+				"theme",
+				"Theme Tweaker: Toggle Tweak Mode"
+			],
+			[
+				"listthem",
+				"Themr: List themes"
+			],
+			[
+				"open soruce",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"therm",
+				"Themr: List themes"
+			],
+			[
+				"clean",
+				"A File Icon: Clean Patches"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"for",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"format",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"restart",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"star",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"stop",
+				"SublimeServer: Stop SublimeServer"
+			],
+			[
+				"servert",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"emoej",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"google ",
+				"Snippet: Google AJAX Libraries: Dojo"
+			],
+			[
+				"single",
+				"Snippet: Google AJAX Libraries: Ext Core"
+			],
+			[
+				"sublime ser",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"file nav",
+				"File Navigator: Open"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimtlinte",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"diff",
+				"git: diff"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"thmr",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"\\",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 556.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/scramble.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/permute.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/emulating_map_and_zip.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/mymap.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/generator_and_function_application.py",
+		"/home/progrmoiz/Documents/Workspace/Project/Portfolio/package.json",
+		"/home/progrmoiz/Documents/Workspace/Project/Portfolio/yarn.lock",
+		"/home/progrmoiz/.cache/.fr-sRm5c5/web-starter-kit-0.6.5/gulpfile.babel.js",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/tester_client/scramble.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/sets.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/tester_client/test.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/tester_client/inter2.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/example_scrambling_suquences.py",
+		"/home/progrmoiz/Documents/Workspace/Project/portfolio/index.html",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/directory_walker.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/yield_from_extension.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/generator_are_single_iteration_objects.py",
+		"/home/progrmoiz/.cache/.fr-lL31lZ/SMJ.txt",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/generator_function_vs_experssion.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/generator_function_vs_experssion.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/generator_expression_vs_filter.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/20. Comprehension and Generator/generator_expression_vs_map.py",
+		"/home/progrmoiz/.cache/.fr-hga1OV/SMJ.txt",
+		"/home/progrmoiz/hello.txt",
+		"/home/progrmoiz/file.txt",
+		"/home/progrmoiz/python.md",
+		"/home/progrmoiz/log.txt",
+		"/home/progrmoiz/hs_err_pid2241.log",
+		"/home/progrmoiz/Desktop/read must.txt",
+		"/home/progrmoiz/Desktop/remaining",
+		"/home/progrmoiz/Desktop/Untitled Document",
+		"/home/progrmoiz/Desktop/README.md",
+		"/home/progrmoiz/Desktop/TO-LEARN.md",
+		"/home/progrmoiz/Desktop/TOOL-TO-LEARN.md",
+		"/home/progrmoiz/Desktop/projects.md",
+		"/home/progrmoiz/Documents/Workspace/learning_python/19. Advanced Function Topics/recursion_handling_arbitary.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/19. Advanced Function Topics/recursion.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/19. Advanced Function Topics/function_design_concepts.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/print3_alt2.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/print3.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/print3_alt.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/ordering_rules.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/full_credit.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/minmax.py",
+		"/home/progrmoiz/Documents/Workspace/0-Learning/Javascript/Javascript Definitive Guide/18.13.linkdetails.js",
+		"/home/progrmoiz/Documents/Workspace/0-Learning/Javascript/Javascript Enlightenment/1-3.js",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/tracer0.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/arguments.html",
+		"/home/progrmoiz/Documents/Workspace/learning_python/18. Arguments/kwonly.py",
+		"/home/progrmoiz/.config/sublime-text-3/Packages/User/Projects/learning_python.sublime-project",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/state_retention_nonlocal.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/closure_example_customizing_open.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/17-scope.html",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/scope_example.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/pd_minimize_cross_file_changing.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/pd_minimize_global.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/nonlocal.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/namespace.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/global.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/16. Function Basics/functions.html",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/thismod.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/16. Function Basics/intersects.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/builtins.py",
+		"/home/progrmoiz/Documents/projects.md",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/scope_and_nested_function/nested_function.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/function_return_function.py",
+		"/home/progrmoiz/Documents/Workspace/learning_python/17. Scope/nested_scope_example.py",
+		"/home/progrmoiz/.config/sublime-text-3/Packages/Theme - Cobalt2/cobalt2.tmTheme",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/10 - Promises/creating-promises.html",
+		"/home/progrmoiz/.config/sublime-text-3/Packages/Color Scheme - Default/Cobalt.tmTheme",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/10 - Promises/promises-introduction.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/09 - Object Literal Upgrades/object-literal-upgrades.html",
+		"/home/progrmoiz/Documents/Workspace/Smashing Nodejs/Blocking_and_Non_Blocking/book.js",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/08 - Say Hello to ...Spread and ...Rest/more-spread-examples.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/05 - Destructuring/destructuring-intro.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/05 - Destructuring/destructuring-arrays.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/05 - Destructuring/destructuring-in-action.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/05 - Destructuring/destructuring-and-functions.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/05 - Destructuring/destructuring-WTF.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/08 - Say Hello to ...Spread and ...Rest/spread-introduction.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/08 - Say Hello to ...Spread and ...Rest/jumping-letters.html",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/polymer/index.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/08 - Say Hello to ...Spread and ...Rest/index.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/07 - An Array of Improvements/Array-from-and-of.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/07 - An Array of Improvements/array-finding.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/07 - An Array of Improvements/array-some-and-every.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/06 - Iterables & Looping/for-of-object.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/06 - Iterables & Looping/for-of-examples.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/06 - Iterables & Looping/intro.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/04 - Additional String Improvements/string-methods.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/default-arguments.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/template-strings-html.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/tagged-templates.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/tagged-templates-santize.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/tagged-templates-dictionary.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/tagged-templates-dictionary-WES.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/tagged-templates-dictionary-ANSWER.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/template-strings-looping.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/template-strings-render-functions.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/template-strings-if.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/exercises/Exercise 2.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/03 - Template Strings/template-strings.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/exercises/Exercise 1.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/exercises/Exercise 1-WES.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/when-not-to-use-arrows.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/arrow-functions-this.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/arrow-functions-examples.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/02 - Arrow functions/arrow-functions.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/01 - New Variables/temporal-dad-zone.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/data.js",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/01 - New Variables/let-const-real-life.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/01 - New Variables/let-const.html",
+		"/home/progrmoiz/Videos/ES6 for Everyone/es6/01 - New Variables/var-let-const.html",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript30/JavaScript30/02 - JS and CSS Clock/index-START.html",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript30/JavaScript30/01 - JavaScript Drum Kit/style.css",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript30/JavaScript30/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript30/JavaScript30/01 - JavaScript Drum Kit/index-START.html",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/browser/index.html",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/browser/app.js",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/inheritance/borrowing_a_constructor.js",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/inheritance/isolating_inheritance_part.js",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/inheritance/inheritance.md",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/inheritance/prototype_chaning.js",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/inheritance/inheriting.js",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/inheritance/temperary_constructor.js",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/javascript/inheritance/inheritance.html",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/python/iteration_comprehensions/other_iteration_context.py",
+		"/home/progrmoiz/Documents/Workspace/2-Workshopper/freecodecamp/basic_algorithm_scripting/title_case.js"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scrable",
+			"scramble",
+			"S",
+			"()):",
+			" [",
+			"S",
+			"tup",
+			"I1",
+			"s",
+			"count",
+			"char",
+			"800",
+			"height",
+			", ",
+			"twitter",
+			"l",
+			"Fl",
+			"fl",
+			"item",
+			"ld",
+			"arrOfTime",
+			"hours",
+			"transitionend",
+			"k",
+			"transitionend",
+			"argument",
+			"cl",
+			"teaser",
+			"grid",
+			"        <a href=\"index.html\">Home</a>\n        <a href=\"speakers.html\">Speakers</a>\n        <a href=\"schedule.html\">Schedule</a>\n        <a href=\"venue.html\">Venue</a>\n        <a href=\"register.html\">Register</a>",
+			">\n",
+			"        <a href=\"index.html\">Home</a>\n        <a href=\"speakers.html\">Speakers</a>\n        <a href=\"schedule.html\">Schedule</a>\n        <a href=\"venue.html\">Venue</a>\n        <a href=\"register.html\">Register</a>",
+			".row",
+			"reply",
+			"myObject",
+			"fetch",
+			"conding",
+			" \"",
+			"age_set",
+			"age_add_wiki",
+			"        if not url:\n            # which url to look for in database\n            url = 'frontpage'\n",
+			"top",
+			"get_post",
+			"age_get",
+			"wikipage",
+			"app_titel",
+			"page",
+			"newwiki",
+			"page",
+			"title",
+			"fetch",
+			"fetch(",
+			"title",
+			"logged",
+			"by_name",
+			"ndb",
+			"db",
+			"self",
+			"db.Mode",
+			"named",
+			"name",
+			"error['",
+			"error",
+			"True",
+			"tempalte_dir",
+			"a",
+			"const",
+			"cell",
+			"];\n",
+			"input",
+			"500",
+			"html",
+			"yellow",
+			"userId",
+			"username",
+			"adminRouter",
+			"cached_ago",
+			"color",
+			"plug"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Portfolio.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pr",
+				"18. Arguments/print3.py"
+			],
+			[
+				"prin",
+				"18. Arguments/print3.py"
+			],
+			[
+				"glob",
+				"17. Scope/global.py"
+			],
+			[
+				"function",
+				"17. Scope/function_return_function.py"
+			],
+			[
+				"array",
+				"05 - Destructuring/destructuring-arrays.html"
+			],
+			[
+				"wtf",
+				"05 - Destructuring/destructuring-WTF.html"
+			],
+			[
+				"tagg",
+				"03 - Template Strings/tagged-templates-dictionary.html"
+			],
+			[
+				"defau",
+				"02 - Arrow functions/default-arguments.html"
+			],
+			[
+				"arrow",
+				"02 - Arrow functions/arrow-functions.html"
+			],
+			[
+				"",
+				"data.js"
+			],
+			[
+				"start",
+				"JavaScript30/01 - JavaScript Drum Kit/index-START.html"
+			],
+			[
+				"style",
+				"JavaScript30/01 - JavaScript Drum Kit/style.css"
+			],
+			[
+				"oth",
+				"iteration_comprehensions/other_iteration_context.py"
+			],
+			[
+				"brea",
+				"breaking_a_chain_with_closure.js"
+			],
+			[
+				"inne",
+				"inner_private_function.js"
+			],
+			[
+				"hs",
+				"inner_private_function.hs"
+			],
+			[
+				"od",
+				"odd_or_even.py"
+			],
+			[
+				"li",
+				"literals.py"
+			],
+			[
+				"dom",
+				"event_dom_listener.html"
+			],
+			[
+				"spea",
+				"project/speakers.html"
+			],
+			[
+				"2-",
+				"2-1.js"
+			],
+			[
+				"2",
+				"2-1.js"
+			],
+			[
+				"16",
+				"1-16.js"
+			],
+			[
+				"blo",
+				"blog.py"
+			],
+			[
+				"main",
+				"main.py"
+			],
+			[
+				"template",
+				"templates/signup.html"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"test",
+				"test.js"
+			],
+			[
+				"meth",
+				"06-Objects/1.methods.js"
+			],
+			[
+				"med",
+				"media_and_download.html"
+			],
+			[
+				"hre",
+				"href_and_target.html"
+			],
+			[
+				"su",
+				"example/suzie.json"
+			],
+			[
+				"be",
+				"example/bert.json"
+			],
+			[
+				"ber",
+				"example/bert.json"
+			],
+			[
+				"abs",
+				"5.abstracting_req.js"
+			],
+			[
+				"fr",
+				"example/fruit.xml"
+			],
+			[
+				"fe",
+				"4.fetching_xml_data.js"
+			],
+			[
+				"fet",
+				"4.fetching_xml_data.html"
+			],
+			[
+				"asy",
+				"3.async_request.js"
+			],
+			[
+				".ejs",
+				"src/views/index.ejs"
+			],
+			[
+				"loca",
+				"strategies/local.strategy.js"
+			],
+			[
+				"views/index",
+				"src/views/index.ejs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

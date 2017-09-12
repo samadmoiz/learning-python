@@ -1,0 +1,2 @@
+- run as module program work
+- run as pkg not work

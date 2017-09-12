@@ -1,0 +1,1 @@
+print('eggs' * 4)

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Functions</title>
+</head>
+<body>
+  <p>There are two ways to define function is <code>def</code> and <code>lambda</code>, two ways to manage scope visiblity (<code>global</code> and <code>nonlocal</code>), and two ways to send result back to callers (<code>return</code> and <code>yield</code>)</p>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Statement or expression</th>
+        <th>Examples</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Call Expression</td>
+        <td>
+        <pre>
+          <code>
+myfunc('spam', 'eggs', meat=ham, *rest)
+          </code>
+        </pre>
+        </td>
+      </tr>
+      <tr>
+        <td><code>def</code></td>
+        <td>
+          <pre>
+            <code class="syntax syntax-py">
+def printer(message):
+    print('Hello %s' % message)
+            </code>
+          </pre>
+        </td>
+      </tr>
+      <tr>
+        <td><code>return</code></td>
+        <td>
+          <pre>
+            <code class="syntax syntax-py">
+def adder(a, b=1, *c):
+    return a + b + c[0]
+            </code>
+          </pre>
+        </td>
+      </tr>
+      <tr>
+        <td><code>global</code></td>
+        <td>
+          <pre>
+            <code class="syntax syntax-py">
+x = 'old'
+def changer():
+    global x;
+    x = 'new'
+            </code>
+          </pre>
+        </td>
+      </tr>
+      <tr>
+        <td><code>nonlocal</code></td>
+        <td>
+          <pre>
+            <code class="syntax syntax-py">
+def outer():
+    x = 'old'
+    def changer():
+        nonlocal x;
+        x = 'new'
+            </code>
+          </pre>
+        </td>
+      </tr>
+      <tr>
+        <td><code>yield</code></td>
+        <td>
+          <pre>
+            <code class="syntax syntax-py">
+def squares(x):
+    for i in range(x):
+        yield x ** 2
+            </code>
+          </pre>
+        </td>
+      </tr>
+      <tr>
+        <td><code>lambda</code></td>
+        <td>
+          <pre>
+            <code class="syntax syntax-py">
+funcs = [lambda x: x ** 2, lambda x: x ** 3]
+            </code>
+          </pre>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
